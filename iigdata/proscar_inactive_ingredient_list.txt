@@ -1,0 +1,27 @@
+MainDrug,NDC,Strength,Formulation,INGREDIENT_NAME
+finasteride,0006-0072,5 mg," tablet, film coated",DOCUSATE SODIUM
+finasteride,0006-0072,5 mg," tablet, film coated",FD&amp;C BLUE NO. 2
+finasteride,0006-0072,5 mg," tablet, film coated",ALUMINUM OXIDE
+finasteride,0006-0072,5 mg," tablet, film coated",LACTOSE MONOHYDRATE
+finasteride,0006-0072,5 mg," tablet, film coated",HYDROXYPROPYL CELLULOSE (1600000 WAMW)
+finasteride,0006-0072,5 mg," tablet, film coated","HYPROMELLOSE, UNSPECIFIED"
+finasteride,0006-0072,5 mg," tablet, film coated",MAGNESIUM STEARATE
+finasteride,0006-0072,5 mg," tablet, film coated",MICROCRYSTALLINE CELLULOSE
+finasteride,0006-0072,5 mg," tablet, film coated","STARCH, CORN"
+finasteride,0006-0072,5 mg," tablet, film coated",SODIUM STARCH GLYCOLATE TYPE A POTATO
+finasteride,0006-0072,5 mg," tablet, film coated",TALC
+finasteride,0006-0072,5 mg," tablet, film coated",TITANIUM DIOXIDE
+finasteride,0006-0072,5 mg," tablet, film coated",FERRIC OXIDE YELLOW
+finasteride,78206-153,5 mg," tablet, film coated",DOCUSATE SODIUM
+finasteride,78206-153,5 mg," tablet, film coated",FD&amp;C BLUE NO. 2
+finasteride,78206-153,5 mg," tablet, film coated",ALUMINUM OXIDE
+finasteride,78206-153,5 mg," tablet, film coated",LACTOSE MONOHYDRATE
+finasteride,78206-153,5 mg," tablet, film coated",HYDROXYPROPYL CELLULOSE (1600000 WAMW)
+finasteride,78206-153,5 mg," tablet, film coated","HYPROMELLOSE, UNSPECIFIED"
+finasteride,78206-153,5 mg," tablet, film coated",MAGNESIUM STEARATE
+finasteride,78206-153,5 mg," tablet, film coated",MICROCRYSTALLINE CELLULOSE
+finasteride,78206-153,5 mg," tablet, film coated","STARCH, CORN"
+finasteride,78206-153,5 mg," tablet, film coated",SODIUM STARCH GLYCOLATE TYPE A POTATO
+finasteride,78206-153,5 mg," tablet, film coated",TALC
+finasteride,78206-153,5 mg," tablet, film coated",TITANIUM DIOXIDE
+finasteride,78206-153,5 mg," tablet, film coated",FERRIC OXIDE YELLOW
